@@ -1,6 +1,8 @@
 # YellowHat
 ## Password Manager
 
+Membuat data base untuk menyimpan password dan di enkripsi
+
 ## Installation
 
 

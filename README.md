@@ -16,4 +16,9 @@ install apache2
 
 ```sh
 sudo apt install apache2
+sudo ufw app list
+```
+#hanya untuk mengizinkan port 80
+```sh
+
 ```

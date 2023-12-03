@@ -25,5 +25,5 @@ sudo ufw allow in "Apache"
 ```
 #### install MySQL & php
 ```sh
-sudo apt install php libapache2-mod-php php-mysql mysql-serve
+sudo apt install php libapache2-mod-php php-mysql mysql-server
 ```
